@@ -1,8 +1,5 @@
 Hi there 👋
 
-
-
-
 About me
 
 I am an Computer science and Engineering student currently in my third year. I love to learn and build something new, productive, innovative and creative.
